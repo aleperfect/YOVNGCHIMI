@@ -21,12 +21,12 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐀𝐥𝐞𝐢𝐳𝐧* —◉
+║    ◉— *𝐘𝐎𝐕𝐍𝐆𝐂𝐇𝐈𝐌𝐈* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* 𝐀𝐥𝐞𝐢𝐳𝐧
-║➤ *Numero:* wa.me/51906830557
+║➤ *Owner:* 𝐘𝐎𝐕𝐍𝐆𝐂𝐇𝐈𝐌𝐈
+║➤ *Numero:* 𝐘𝐎𝐕𝐍𝐆𝐂𝐇𝐈𝐌𝐈
 ║➤ *Bot ofc:* wa.me/51906830557
 ║➤ *Bot ofc 2:* wa.me/51906830557
 ║➤ *Fecha:* ${date}
